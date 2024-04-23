@@ -1,0 +1,7 @@
+D:\C#\finalproject 23.04\finalproject 23.04\obj\Debug\finalproject 23.04.csproj.AssemblyReference.cache
+D:\C#\finalproject 23.04\finalproject 23.04\obj\Debug\finalproject 23.04.csproj.CoreCompileInputs.cache
+D:\C#\finalproject 23.04\finalproject 23.04\bin\Debug\finalproject 23.04.exe.config
+D:\C#\finalproject 23.04\finalproject 23.04\bin\Debug\finalproject 23.04.exe
+D:\C#\finalproject 23.04\finalproject 23.04\bin\Debug\finalproject 23.04.pdb
+D:\C#\finalproject 23.04\finalproject 23.04\obj\Debug\finalproject 23.04.exe
+D:\C#\finalproject 23.04\finalproject 23.04\obj\Debug\finalproject 23.04.pdb

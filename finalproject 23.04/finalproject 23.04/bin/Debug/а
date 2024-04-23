@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <Characters>
+    <Character>
+      <Name>Кирило</Name>
+      <Level>1</Level>
+      <Health>100</Health>
+      <Strength>100</Strength>
+      <Agility>100</Agility>
+      <Intelligence>100</Intelligence>
+      <Inventory>
+        <Item>
+          <Name>щит</Name>
+          <Type>броня</Type>
+          <Value>1000</Value>
+          <Weight>1000</Weight>
+        </Item>
+      </Inventory>
+    </Character>
+  </Characters>
+  <Items />
+</Game>

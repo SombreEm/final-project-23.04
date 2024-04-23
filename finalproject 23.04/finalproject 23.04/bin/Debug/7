@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game>
+  <Characters>
+    <Character>
+      <Name>Кирило</Name>
+      <Level>100</Level>
+      <Health>100</Health>
+      <Strength>100</Strength>
+      <Agility>100</Agility>
+      <Intelligence>100</Intelligence>
+      <Inventory>
+        <Item>
+          <Name>телефон</Name>
+          <Type>?нтелект</Type>
+          <Value>10000</Value>
+          <Weight>1000</Weight>
+        </Item>
+      </Inventory>
+    </Character>
+    <Character>
+      <Name>Вова</Name>
+      <Level>101</Level>
+      <Health>101</Health>
+      <Strength>101</Strength>
+      <Agility>1001</Agility>
+      <Intelligence>101</Intelligence>
+      <Inventory>
+        <Item>
+          <Name>щит</Name>
+          <Type>захист</Type>
+          <Value>100</Value>
+          <Weight>10000</Weight>
+        </Item>
+      </Inventory>
+    </Character>
+  </Characters>
+  <Items />
+</Game>
